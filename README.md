@@ -1,0 +1,8 @@
+# MODUL 4
+
+###DATA DIRI
+- NAMA : M.Gerald Junhakristama
+- KELAS : XI RPL 1
+- NO.URUT : 17
+- NIS : 4742/1461.070
+- NAMA SEKOLAH : SMK TELKOM MALANG
